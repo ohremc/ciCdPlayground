@@ -13,7 +13,7 @@ new App({
 			'GitLab'
 		],
 		// Which CI/CD tools do you use in your project?
-		tools: 'Don't know yet',
+		tools: 'Dont know yet',
 		// What do you want to learn in this workshop? 
 		expectations: [
 			'Learn some basics'
